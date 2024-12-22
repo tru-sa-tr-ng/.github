@@ -1,12 +1,17 @@
-## Hi there 👋
+## Chuushajou The Project
+This is an organization of the group under the IT-E6 major that stores the major exercises of the object-oriented programming subject - IT3103 at Hanoi University of Science and Technology (HUST).
+
+This project was developed to solve the problem of parking management.
 
 <!--
+## Some repo
 
-**Here are some ideas to get you started:**
+### ChuushajouJavaApi
+Weird BE of website
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### ChuushajouKanriReact
+Weird FE of website
+
+### ChuushajouBackupDatabase
+Weird DB of website
 -->
