@@ -1,3 +1,0 @@
-# Chuushajou The Project
-
-Hello 
